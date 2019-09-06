@@ -86,7 +86,17 @@ p {
   font-weight: 100;
   line-height: 48px;
   margin-top: 5px;
-  line-height: normal;
+  line-height: 150%;
+  text-align: left;
+}
+
+ul {
+  color: black;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 48px;
+  margin-top: 5px;
+  line-height: 150%;
   text-align: left;
 }
 

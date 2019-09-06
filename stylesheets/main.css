@@ -9,7 +9,7 @@ body {
 .navigation ul {
   margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: right;
 }
 
 .navigation li {
@@ -47,7 +47,6 @@ body {
   text-align: left;
   width: 1000px;
   height: 1000px;
-  overflow: scroll;
 }
 
 h1 {
@@ -58,9 +57,9 @@ h1 {
 }
 
 h2 {
-  color: black;
-  font-size: 42px;
-  font-weight: 700;
+  color: grey;
+  font-size: 26px;
+  font-weight: 600;
   line-height: 48px;
   padding: 10px 5px;
   margin: 30px 20px;
@@ -84,8 +83,9 @@ h4 {
 }
 
 p {
-  color: grey;
+  color: black;
   font-size: 16px;
+  font-weight: 100;
   line-height: 48px;
   margin-top: 60px;
   padding: 2px 2px;

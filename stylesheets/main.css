@@ -1,6 +1,9 @@
+@import 'https://fonts.googleapis.com/css?family=Comfortaa:400,700|Fredoka+One|Nunito:400,800,900|Poiret+One|Quicksand:400,500,700';
+
+html,
 body {
-  background-color: white;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'comfortaa', sans-serif;
+  text-align: center;
 }
 
 .navigation ul {

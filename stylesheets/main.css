@@ -36,7 +36,7 @@ body {
 #banner .content h1 {
   border: 3px solid white;
   position: relative;
-  top: 50px;
+  top: 125px;
   width: 400px;
   margin: 0 auto;
 }
@@ -44,8 +44,8 @@ body {
 #main {
   margin: 0 auto;
   padding: 40px;
-  text-align: center;
-  width: 2000px;
+  text-align: left;
+  width: 1000px;
   height: 1000px;
   overflow: scroll;
 }
@@ -54,30 +54,32 @@ h1 {
   color: white;
   font-size: 42px;
   font-weight: 600;
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
   color: black;
   font-size: 14px;
   line-height: 48px;
-  padding: 20px 30px;
+  padding: 10px 5px;
   margin: 30px 20px;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
   color: rgb(2, 117, 247);
   font-size: 26px;
   font-weight: 700;
-  padding: 20px 10px;
+  padding: 10px 5px;
+  text-align: left;
 }
 
 h4 {
   color: rgb(2, 117, 247);
   font-size: 18px;
   font-weight: 700;
-  padding: 20px 10px;
+  padding: 10px 5px;
+  text-align: left;
 }
 
 p {
@@ -86,6 +88,7 @@ p {
   line-height: 48px;
   margin-top: 60px;
   padding: 5px 5px;
+  text-align: left;
 }
 
 .pull-quote {

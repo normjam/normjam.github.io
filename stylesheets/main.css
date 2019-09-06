@@ -91,6 +91,7 @@ p {
 }
 
 ul {
+  list-style-type: disc;
   color: black;
   font-size: 16px;
   font-weight: 100;

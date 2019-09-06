@@ -63,7 +63,6 @@ h2 {
   font-size: 26px;
   font-weight: 600;
   line-height: 48px;
-  padding: 10px 5px;
   text-align: left;
 }
 
@@ -71,7 +70,6 @@ h3 {
   color: rgb(2, 117, 247);
   font-size: 26px;
   font-weight: 700;
-  padding: 10px 5px;
   text-align: left;
 }
 
@@ -79,7 +77,6 @@ h4 {
   color: rgb(2, 117, 247);
   font-size: 18px;
   font-weight: 700;
-  padding: 10px 5px;
   text-align: left;
 }
 
@@ -88,8 +85,8 @@ p {
   font-size: 16px;
   font-weight: 100;
   line-height: 48px;
-  margin-top: 10px;
-  padding: 2px 2px;
+  margin-top: 5px;
+  line-height: normal;
   text-align: left;
 }
 

@@ -26,7 +26,7 @@ body {
 }
 
 #banner {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+  background-image: url("https://www.trustnodes.com/wp-content/uploads/2017/05/nodes.png");
   background-size: cover;
   background-position: bottom center;
   height: 700px;
@@ -58,8 +58,8 @@ h1 {
 }
 
 h2 {
-  border: 1px dotted red;
-  color: red;
+  border: 1px dotted blue;
+  color: blue;
   font-size: 14px;
   line-height: 48px;
   padding: 20px 30px;
@@ -68,7 +68,7 @@ h2 {
 }
 
 h3 {
-  color: red;
+  color: blue;
   font-size: 26px;
   font-weight: 700;
   padding: 20px 10px;
@@ -104,8 +104,8 @@ p {
 }
 
 .share a {
-  background: red;
-  border: 1px solid red;
+  background: blue;
+  border: 1px solid blue;
   border-radius: 3px;
   color: white;
   display: inline-block;
@@ -116,6 +116,6 @@ p {
 
 .share a:hover {
   background: white;
-  border: 1px solid red;
-  color: red;
+  border: 1px solid blue;
+  color: blue;
 }

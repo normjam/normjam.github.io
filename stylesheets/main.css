@@ -62,7 +62,6 @@ h2 {
   font-weight: 600;
   line-height: 48px;
   padding: 10px 5px;
-  margin: 30px 20px;
   text-align: left;
 }
 
@@ -87,33 +86,19 @@ p {
   font-size: 16px;
   font-weight: 100;
   line-height: 48px;
-  margin-top: 60px;
+  margin-top: 10px;
   padding: 2px 2px;
   text-align: left;
 }
 
-.pull-quote {
-  margin: 0 auto;
-  width: 400px;
-}
-
-.byline {
-  border-bottom: 1px solid LightGrey;
-  border-top: 1px solid LightGrey;
-  color: DarkGrey;
-  font-size: 14px;
-  font-weight: 200;
-}
-
 .share {
-  border: 1px solid LightGrey;
   padding: 40px 0px;
   position: relative;
   text-align: center;
   width: 100%;
 }
 
-.share a {
+.footer a {
   background: rgb(2, 117, 247);
   border: 1px solid rgb(2, 117, 247);
   border-radius: 3px;
@@ -124,7 +109,7 @@ p {
   text-decoration: none;
 }
 
-.share a:hover {
+.footer a:hover {
   background: white;
   border: 1px solid blue;
   color: blue;

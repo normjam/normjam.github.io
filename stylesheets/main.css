@@ -19,11 +19,13 @@ body {
   display: inline-block;
 }
 
-.navigation  li.logo {
-  color: black;
-  font-size: 18px;
-  font-weight: 700;
-  letter-spacing: 4px;
+nav ul li a {
+  color: #000;
+  text-decoration: none;  
+}
+
+nav ul li a:hover {
+  color: grey;
 }
 
 #banner {

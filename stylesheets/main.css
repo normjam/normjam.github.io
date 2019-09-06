@@ -35,7 +35,6 @@ body {
 }
 
 #banner .content h1 {
-  border: 3px solid white;
   position: relative;
   top: 125px;
   width: 400px;
@@ -55,12 +54,13 @@ h1 {
   color: white;
   font-size: 42px;
   font-weight: 600;
-  text-align: left;
+  text-align: center;
 }
 
 h2 {
   color: black;
-  font-size: 14px;
+  font-size: 42px;
+  font-weight: 700;
   line-height: 48px;
   padding: 10px 5px;
   margin: 30px 20px;
@@ -88,7 +88,7 @@ p {
   font-size: 16px;
   line-height: 48px;
   margin-top: 60px;
-  padding: 5px 5px;
+  padding: 2px 2px;
   text-align: left;
 }
 

@@ -29,7 +29,7 @@ body {
   background-image: url("https://www.trustnodes.com/wp-content/uploads/2017/05/nodes.png");
   background-size: cover;
   background-position: bottom center;
-  height: 700px;
+  height: 300px;
   width: 100%;
 }
 
@@ -58,8 +58,8 @@ h1 {
 }
 
 h2 {
-  border: 1px dotted blue;
-  color: blue;
+  border: 1px dotted rgb(2, 117, 247);
+  color: rgb(2, 117, 247);
   font-size: 14px;
   line-height: 48px;
   padding: 20px 30px;
@@ -68,14 +68,14 @@ h2 {
 }
 
 h3 {
-  color: blue;
+  color: rgb(2, 117, 247);
   font-size: 26px;
   font-weight: 700;
   padding: 20px 10px;
 }
 
 h4 {
-  color: blue;
+  color: rgb(2, 117, 247);
   font-size: 18px;
   font-weight: 700;
   padding: 20px 10px;
@@ -111,8 +111,8 @@ p {
 }
 
 .share a {
-  background: blue;
-  border: 1px solid blue;
+  background: rgb(2, 117, 247);
+  border: 1px solid rgb(2, 117, 247);
   border-radius: 3px;
   color: white;
   display: inline-block;

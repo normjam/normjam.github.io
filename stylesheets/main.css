@@ -58,8 +58,7 @@ h1 {
 }
 
 h2 {
-  border: 1px dotted rgb(2, 117, 247);
-  color: rgb(2, 117, 247);
+  color: black;
   font-size: 14px;
   line-height: 48px;
   padding: 20px 30px;

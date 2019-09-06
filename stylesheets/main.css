@@ -49,6 +49,8 @@ nav ul li a:hover {
   text-align: left;
   width: 1000px;
   height: 1000px;
+  resize: both;
+  overflow: auto;
 }
 
 a { 

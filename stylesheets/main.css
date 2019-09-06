@@ -51,6 +51,11 @@ nav ul li a:hover {
   height: 1000px;
 }
 
+a { 
+  color: black;
+  text-decoration: underline;
+}
+
 h1 {
   color: white;
   font-size: 42px;

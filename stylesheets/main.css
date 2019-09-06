@@ -2,7 +2,7 @@
 
 html,
 body {
-  font-family: 'comfortaa', sans-serif;
+  font-family: sans-serif;
   text-align: center;
 }
 
@@ -60,9 +60,10 @@ a {
 
 h1 {
   color: white;
-  font-size: 42px;
-  font-weight: 600;
+  font-size: 60px;
+  font-weight: 800;
   text-align: center;
+  top: 60px;
 }
 
 h2 {

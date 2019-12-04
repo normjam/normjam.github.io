@@ -1,5 +1,5 @@
 ## presentations from normjam:
-- framing the problem 
+- [framing the problem](/Ganguli_Satija_Framing_the_problem.pdf) 
 - the scTransform approach
 - the glmPCA approach
 - the BASiCS approach

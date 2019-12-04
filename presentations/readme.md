@@ -1,0 +1,11 @@
+## presentations from normjam:
+- framing the problem 
+- the scTransform approach
+- the glmPCA approach
+- the BASiCS approach
+- the scNorm approach
+- the BISCUIT approach
+- What is the right statistical distribution for modeling technical variability?
+- How do we handle mean the mean variance relationship of single cell expression data?
+- How do we define what it means to normalize successfully?
+- What are potential biological and negative controls that we can use to assess normalization?
